@@ -1,6 +1,6 @@
 ## Getting started Xamarin Shimmer
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.Forms Shimmer](https://help.syncfusion.com/xamarin/shimmer/getting-started) control. The SfShimmer control can be used to improve the responsiveness of an application by showing a modern shimmer effect when data is being loaded in the background.
+This repository contains sample to get started with the [Syncfusion Xamarin.Forms Shimmer](https://help.syncfusion.com/xamarin/shimmer/getting-started) control. The SfShimmer control can be used to improve the responsiveness of an application by showing a modern shimmer effect when data is being loaded in the background.
 
 ## Syncfusion controls:
 
